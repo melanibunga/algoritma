@@ -1,3 +1,4 @@
+//tugas 2 praktikum algoritma
 #include <iostream>
 #include <string>
 using namespace std;
