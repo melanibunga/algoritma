@@ -6,7 +6,7 @@ using namespace std;
 struct Pelaku {
     string nama;
     string posisi;
-    double nominal;
+    int nominal;
 };
 
 struct Node {
